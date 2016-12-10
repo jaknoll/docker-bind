@@ -1,5 +1,5 @@
 FROM resin/rpi-raspbian 
-MAINTAINER sameer@damagehead.com
+MAINTAINER Jon Knoll
 
 ENV BIND_USER=bind \
     BIND_VERSION=1:9.9.5 \
